@@ -13,8 +13,8 @@ A collection of basic Android exercises
 9. **Text-to-Speech App** 
 10. **MyMusic App** - Service https://github.com/DeLaSalleUniversity-Manila/mymusicapp-rohit0000
 11. **Splash Activity** https://github.com/DeLaSalleUniversity-Manila/splashactivitydemo-rohit0000
-12. **Menu Activity** 
-13. **Help Activity** 
+12. **Menu Activity** https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-rohit0000
+13. **Help Activity** https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-rohit0000
 14. **Green Target** 
 15. **Take a Picture** 
 16. **Buttons Demo** 
@@ -44,10 +44,10 @@ A collection of basic Android exercises
 40. **QR and Bar Code Reader** 
 41. **OpenCV 3.0 Camera Control** 
 42. **OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity)** 
-43. **FAST Keypoints** 
-44. **AKAZE Keypoints** 
-45. **Colored Gray** 
-46. **Twin Camera Effect** 
+43. **FAST Keypoints** https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-rohit0000
+44. **AKAZE Keypoints** https://github.com/DeLaSalleUniversity-Manila/akazefeatures-rohit0000
+45. **Colored Gray** https://github.com/DeLaSalleUniversity-Manila/coloredgray-rohit0000
+46. **Twin Camera Effect** https://github.com/DeLaSalleUniversity-Manila/twincameraeffect-rohit0000
 47. **Range Seekbar Demo** 
 48. **Frame Difference (Motion Detect)** 
 49. **Pedestrian Detection** 
@@ -90,7 +90,7 @@ A collection of basic Android exercises
 86. **Tesseract OCR Demo** https://github.com/DeLaSalleUniversity-Manila/tesseractocrdemo-rohit0000
 87. **CMT Tracker with AKAZE Features** 
 88. **CMT Tracker with ORB Features** 
-89. **San Angeles** 
+89. **San Angeles** https://github.com/DeLaSalleUniversity-Manila/sanangles-rohit0000
 90. **OpenGL ES 3.0 Demo** 
 91. **2048 Game** 
 92. **Green Wall Game** 
