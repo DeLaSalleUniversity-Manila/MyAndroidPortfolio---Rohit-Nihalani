@@ -12,13 +12,13 @@ A collection of basic Android exercises
 8. **Email App** - Grid Layout https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-rohit0000
 9. **Text-to-Speech App** 
 10. **MyMusic App** - Service https://github.com/DeLaSalleUniversity-Manila/mymusicapp-rohit0000
-11. **Splash Activity** 
+11. **Splash Activity** https://github.com/DeLaSalleUniversity-Manila/splashactivitydemo-rohit0000
 12. **Menu Activity** 
 13. **Help Activity** 
 14. **Green Target** 
 15. **Take a Picture** 
 16. **Buttons Demo** 
-17. **Star Rating** 
+17. **Star Rating** https://github.com/DeLaSalleUniversity-Manila/starratingdemo-rohit0000
 18. **Google Map Marker for DLSU** 
 19. **Screen Slides** 
 20. **ViewPager with Text-to-Speech Demo** 
@@ -39,7 +39,7 @@ A collection of basic Android exercises
 35. **Get Neighboring Hospitals** 
 36. **OpenCV 3.0 Color Blob Detection Sample** 
 37. **Android Native Camera Access with Native OpenCV Processing through JNI** 
-38. **Android Camera Bitmap Access through JNI** 
+38. **Android Camera Bitmap Access through JNI** https://github.com/DeLaSalleUniversity-Manila/androidcamerabitmapaccess-rohit0000
 39. **Cat Face Detection** 
 40. **QR and Bar Code Reader** 
 41. **OpenCV 3.0 Camera Control** 
