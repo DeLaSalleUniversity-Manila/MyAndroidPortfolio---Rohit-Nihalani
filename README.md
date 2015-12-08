@@ -83,7 +83,7 @@ A collection of basic Android exercises
 79. **Native Bitmap Access** 
 80. **Image Histogram** 
 81. **Adaptive Thresholding** 
-82. **DISMATH Refresher App** https://github.com/DeLaSalleUniversity-Manila/finalproject2015-rohit0000 GOOGLE LINK https://play.google.com/store/apps/details?id=ph.edu.dlsu.texto
+82. **TexTo** https://github.com/DeLaSalleUniversity-Manila/finalproject2015-rohit0000 GOOGLE LINK https://play.google.com/store/apps/details?id=ph.edu.dlsu.texto
 83. **Full Body Detection** 
 84. **Histogram of Gradients (HOG) Features** 
 85. **Consensus-based Matching and Tracking in Android (CMT Tracker)** 
