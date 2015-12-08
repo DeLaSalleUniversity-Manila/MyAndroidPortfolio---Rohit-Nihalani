@@ -10,7 +10,7 @@ A collection of basic Android exercises
 6. **WeekDay App using Date Picker Fragment** https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-rohit0000
 7. **Stopwatch App** https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-rohit0000
 8. **Email App** - Grid Layout https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-rohit0000
-9. **Text-to-Speech App** 
+9. **Text-to-Speech App** https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-rohit0000
 10. **MyMusic App** - Service https://github.com/DeLaSalleUniversity-Manila/mymusicapp-rohit0000
 11. **Splash Activity** https://github.com/DeLaSalleUniversity-Manila/splashactivitydemo-rohit0000
 12. **Menu Activity** https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-rohit0000
@@ -41,7 +41,7 @@ A collection of basic Android exercises
 37. **Android Native Camera Access with Native OpenCV Processing through JNI** 
 38. **Android Camera Bitmap Access through JNI** https://github.com/DeLaSalleUniversity-Manila/androidcamerabitmapaccess-rohit0000
 39. **Cat Face Detection** 
-40. **QR and Bar Code Reader** 
+40. **QR and Bar Code Reader** https://github.com/DeLaSalleUniversity-Manila/barcodereader-rohit0000
 41. **OpenCV 3.0 Camera Control** 
 42. **OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity)** 
 43. **FAST Keypoints** https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-rohit0000
@@ -49,7 +49,7 @@ A collection of basic Android exercises
 45. **Colored Gray** https://github.com/DeLaSalleUniversity-Manila/coloredgray-rohit0000
 46. **Twin Camera Effect** https://github.com/DeLaSalleUniversity-Manila/twincameraeffect-rohit0000
 47. **Range Seekbar Demo** 
-48. **Frame Difference (Motion Detect)** 
+48. **Frame Difference (Motion Detect)** https://github.com/DeLaSalleUniversity-Manila/framedifferencesample-rohit0000
 49. **Pedestrian Detection** 
 50. **Voronoi Effects** 
 51. **FANN Library in Android** 
@@ -92,7 +92,7 @@ A collection of basic Android exercises
 88. **CMT Tracker with ORB Features** 
 89. **San Angeles** https://github.com/DeLaSalleUniversity-Manila/sanangles-rohit0000
 90. **OpenGL ES 3.0 Demo** 
-91. **2048 Game** 
+91. **2048 Game** https://github.com/DeLaSalleUniversity-Manila/2048-rohit0000/tree/master
 92. **Green Wall Game** 
 93. **Octodroid** 
 94. **Flappy Bird (Clone)** 
